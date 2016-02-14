@@ -1,0 +1,23 @@
+{
+    "name": "uxms/didyoumean",
+    "description": "Provides correct word suggestions based on a dictionary by levenshtein function",
+    "homepage": "https://uxms.net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Uxms Devs",
+            "email": "info@uxms.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "Uxms\\MatchWord\\": "src/"
+        }
+    }
+}
