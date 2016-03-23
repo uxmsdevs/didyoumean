@@ -1,5 +1,5 @@
 {
-    "name": "uxms/didyoumean",
+    "name": "uxmsdevs/didyoumean",
     "description": "Provides correct word suggestions based on a dictionary by levenshtein function",
     "homepage": "https://uxms.net",
     "license": "MIT",
